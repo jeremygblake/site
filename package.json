@@ -1,0 +1,23 @@
+{
+  "homepage": "http://jeremygblake.github.io/jeremygblake.github.pages"
+  "name": "jeremygblake.github.pages",
+  "version": "1.0.0",
+  "description": "my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremygblake/jeremygblake.github.pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremygblake/jeremygblake.github.pages/issues"
+  },
+  "homepage": "https://github.com/jeremygblake/jeremygblake.github.pages#readme",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
