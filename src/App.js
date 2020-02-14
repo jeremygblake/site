@@ -6,7 +6,6 @@ import HomePage from "./components/HomePage.component";
 function App() {
   return (
     <Router>
-      <Navbar/>
       <Route path="/" exact component = {HomePage}/>
     </Router>
   );
