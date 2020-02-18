@@ -7,8 +7,9 @@ export default class HomePage extends Component
     {
         return(
             <div>
+                <title>Home Page</title>
                 <h1>
-                    
+                    WEBSITE
                 </h1>
             </div>
         )
