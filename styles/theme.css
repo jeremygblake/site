@@ -11,26 +11,3 @@ body{
     box-shadow: inset 0rem 0rem 20rem rgba(0, 0, 0, .7);
 
 }
-
-.nav-brand{
-  margin-top: 0;
-  margin-bottom: 0;
-  color: white;
-  font-size: 3rem;
-  padding-top: 30px;
-  display: block;
-  font-weight:  bold;
-
-}
-
-.nav-link
-{
-  display: inline;
-  margin: 20px 20px 20px;
-  color: #FFFFf0;
-}
-
-.nav-link:active{
-  border-bottom: white;
-  border-bottom: 3px;
-}
