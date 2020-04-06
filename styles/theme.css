@@ -1,26 +1,23 @@
 body.darktheme{
     background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    color: white;
 }
 
 
-ul {
-    width: 100%;
-    height: 20%;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: white;
-  }
-  
-  li{
-    display: inline;
-    color: #000000;
-    padding: 8px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color on hover */
-  li a:hover {
-    background-color: #555;
-    color: white;
-  }
+div.codewhite
+{
+  background-color: white;
+  list-style-type: none;
+  margin-left: 0;
+}
+
+
+div.darkcode{
+  background-color:rgb(70, 71, 73);
+  width: 70%;
+}
+
+code.darkcode{
+  background-color:rgb(70, 71, 73);
+  color: cyan;
+}
